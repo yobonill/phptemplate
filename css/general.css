@@ -1,0 +1,48 @@
+/*General CSS*/
+body {
+    font-weight: bold;
+}
+.success {
+    background-color: #29b12c !important;
+}
+.warning {
+    background-color: #ece531 !important;
+}
+.danger {
+    background-color: #e66868 !important;
+}
+.successText {
+    color: #29b12c;
+}
+.warningText {
+    color: #ece531;
+}
+.dangerText {
+    color: #e66868;
+}
+/*Header*/
+    .side-button {
+        color: white;
+    }
+    .side-button:hover {
+        color: grey;
+    }
+/*Header*/
+
+/*Header*/
+
+/*content*/
+
+/*content*/
+
+/*Footer*/
+
+/*Footer*/
+/*General CSS*/
+
+/*Content CSS*/
+/*Footer CSS */
+
+    
+/*Footer CSS */
+/*Content CSS*/
